@@ -88,7 +88,7 @@ header nav ul li a:hover {
     align-items: flex-end;
     align-content: center;
     justify-content: flex-end;
-    height: 200px;
+    height: 250px;
     padding: 0 40px 15px 0;
 }
   
@@ -258,12 +258,13 @@ footer nav ul li a:hover {
 
     .spacer-special {
         padding: 0 1px 10px 0px;
-        font-size: 15px;
+        font-size: 11px;
         text-align: right;
+        width: 99px;
     }
 
     .contact-info {
-        padding: 10px 25px;
+        padding: 10px 5px;
     }
   
   }
