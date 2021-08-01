@@ -7,4 +7,4 @@ This site was built using [The Visual Studio Code Editor](https://code.visualstu
 
 All projects within are the property of John T. Woodland.
 
-<!-- ![Horiseon Website](./assets/images/horiseon.png) -->
+![Horiseon Website](./assets/images/portfolio.jpg)
