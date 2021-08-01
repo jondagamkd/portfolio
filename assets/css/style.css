@@ -11,8 +11,8 @@
     font-family: cursive, Helvetica, sans-serif;
 }
 
+/* Header Start */
 header {
-    /* padding: 20px 35px; */
     background-color: #2d313b;
     display: flex;
     justify-content: space-between;
@@ -73,7 +73,9 @@ header nav ul li a:hover {
     border-bottom: 6px solid #2d313b;
     text-shadow: none;
 }
+/* Header End */
 
+/* Hero Start */
 .hero {
     background-image: url("../images/hero-bg.jpg");
     background-size: cover;
@@ -90,7 +92,28 @@ header nav ul li a:hover {
     color: #2d313b;
     padding: 5px;
     font-weight: bold;
+    font-size: 25px;
 }
+/* Hero End */
+
+.spacer {
+    font-size: 25px;
+    text-align: right;
+    color: #415979;
+    border-right: 3px solid #415979;
+    padding: 0 10px 10px 80px;
+}
+
+/* About Me Section Start */
+.about-me {
+    padding: 25px 0;
+    display: flex;
+}
+
+.about-me-article {
+    padding: 2px 25px;
+}
+/* About Me Section End */
 
 
 
