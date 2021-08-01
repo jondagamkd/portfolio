@@ -8,6 +8,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: cursive, Helvetica, sans-serif;
 }
 
 header {
@@ -77,9 +78,18 @@ header nav ul li a:hover {
     background-image: url("../images/hero-bg.jpg");
     background-size: cover;
     display: flex;
-    justify-content: right;
-    flex-wrap: wrap;
     align-items: flex-end;
+    align-content: center;
+    justify-content: flex-end;
+    height: 200px;
+    padding: 0 40px 15px 0;
+}
+  
+.hero-title {
+    background-color: #96cecf;
+    color: #2d313b;
+    padding: 5px;
+    font-weight: bold;
 }
 
 
